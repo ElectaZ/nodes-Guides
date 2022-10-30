@@ -28,7 +28,7 @@
     
 ## Build    (27.10.22)
     git clone https://github.com/evmos/evmos
-    cd evmos
+    cd electra
     git checkout v1.0.1
     make install
 `electrad version`
