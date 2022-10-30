@@ -17,7 +17,7 @@
     sudo apt update && sudo apt upgrade -y && \
     sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu gcc git jq chrony liblz4-tool -y
     
-## GO 18.1 (one command)
+## GO 18.7 (one command)
     wget https://golang.org/dl/go1.18.7.linux-amd64.tar.gz; \
     rm -rv /usr/local/go; \
     tar -C /usr/local -xzf go1.18.7.linux-amd64.tar.gz && \
